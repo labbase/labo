@@ -1,6 +1,6 @@
 {
-  "commit": "92eaf3206d288b3f418ae3df2ea8a7245764154a",
-  "generated": "2024-05-26T06:57:01.169Z",
+  "commit": "a2432ec9519f36f53dc553ee7845d40b8de2a238",
+  "generated": "2024-05-26T18:49:06.833Z",
   "metadata": [
     {
       "__outstatic": {
@@ -198,6 +198,24 @@
       "status": "published",
       "tags": [
       ],
+      "title": "Test"
+    },
+    {
+      "__outstatic": {
+        "commit": "a2432ec9519f36f53dc553ee7845d40b8de2a238",
+        "hash": "4087064403",
+        "path": "outstatic/content/projects/test.md"
+      },
+      "author": {
+        "name": "Jason Park",
+        "picture": "https://avatars.githubusercontent.com/u/44460589?v=4"
+      },
+      "collection": "projects",
+      "coverImage": "/images/dna-design-concept-I0Nz.png",
+      "description": "",
+      "publishedAt": "2024-05-26T18:05:41.246Z",
+      "slug": "test",
+      "status": "published",
       "title": "Test"
     }
   ]
