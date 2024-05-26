@@ -1,12 +1,12 @@
 ---
 title: 'Test'
-status: 'draft'
+status: 'published'
 author:
   name: 'Jason Park'
   picture: 'https://avatars.githubusercontent.com/u/44460589?v=4'
 slug: 'test'
 description: ''
-coverImage: '/images/tactical-neural-implant-Q0Nj.jfif'
+coverImage: '/images/tactical-neural-implant-Y5NT.jfif'
 tags: []
 publishedAt: '2024-05-26T06:12:01.099Z'
 ---
