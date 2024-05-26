@@ -6,8 +6,8 @@ author:
   picture: 'https://avatars.githubusercontent.com/u/44460589?v=4'
 slug: 'test'
 description: ''
-coverImage: ''
-tags: ''
+coverImage: '/images/tactical-neural-implant-Q0Nj.jfif'
+tags: []
 publishedAt: '2024-05-26T06:12:01.099Z'
 ---
 
