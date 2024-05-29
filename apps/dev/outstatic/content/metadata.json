@@ -1,6 +1,6 @@
 {
-  "commit": "ef8036f03075f009c589d95d487b06f93dffe14e",
-  "generated": "Sun, 26 May 2024 19:09:18 GMT",
+  "commit": "58058cd8466266987a7cb26d10d0a2c4d5a97f8e",
+  "generated": "2024-05-29T03:03:34.970Z",
   "metadata": [
     {
       "__outstatic": {
@@ -217,6 +217,26 @@
         }
       ],
       "title": "Welcome to Outstatic!"
+    },
+    {
+      "__outstatic": {
+        "commit": "58058cd8466266987a7cb26d10d0a2c4d5a97f8e",
+        "hash": "1246312648",
+        "path": "outstatic/content/posts/hello-world.md"
+      },
+      "author": {
+        "name": "Jason Park",
+        "picture": "https://avatars.githubusercontent.com/u/44460589?v=4"
+      },
+      "collection": "posts",
+      "coverImage": "/images/pern_stack-IyOD.jpg",
+      "description": "",
+      "publishedAt": "2024-05-29T02:19:29.538Z",
+      "slug": "hello-world",
+      "status": "published",
+      "tags": [
+      ],
+      "title": "Hello World"
     }
   ]
 }
